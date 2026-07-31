@@ -7,7 +7,7 @@ USART_Print : printf 시리얼 디버깅
 <img width="999" height="655" alt="image" src="https://github.com/user-attachments/assets/e5af3f51-fcea-4133-a74c-ffc42708bc01" />
 
 
-
+...
 /* USER CODE BEGIN 0 */
 /* USER CODE BEGIN 0 */
 #ifdef __GNUC__
@@ -33,3 +33,5 @@ PUTCHAR_PROTOTYPE
 
   return ch;
 }
+
+...
