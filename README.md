@@ -9,6 +9,7 @@ USART_Print : printf 시리얼 디버깅
 
 
 /* USER CODE BEGIN 0 */
+/* USER CODE BEGIN 0 */
 #ifdef __GNUC__
 /* With GCC, small printf (option LD Linker->Libraries->Small printf
    set to 'Yes') calls __io_putchar() */
